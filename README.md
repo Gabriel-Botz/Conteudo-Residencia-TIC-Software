@@ -1,5 +1,4 @@
-::: {align="center"}
-# 🧠 Lógica de Programação com Portugol Studio
+::: 🧠 Lógica de Programação com Portugol Studio :::
 
 📚 Coleção de exercícios para praticar **fundamentos de programação**
 utilizando **Portugol Studio**.
@@ -214,6 +213,4 @@ Isso ajuda outras pessoas a encontrarem o material.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-Feito para estudo de **Lógica de Programação** 💻
-:::
+::: Feito para estudo de **Lógica de Programação** 💻 :::
